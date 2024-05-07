@@ -94,5 +94,7 @@ Compound Propositions: If we combine, for example, the following statements: "El
 
 We have "Elephants are large" as formal E = V and "Basketballs are round" as formal B = V. So we have E and B = V. The formal notation for the compound proposition is: E and B.
 
+![image](https://github.com/Komthie/Propositional-Logic/assets/95933637/ea9c3705-3ccb-414c-921d-b037ea40ea03)
+
 ---
 
