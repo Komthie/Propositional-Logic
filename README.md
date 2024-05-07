@@ -1,7 +1,7 @@
 # Propositional-Logic
 Propositional logic, also known as sentential logic and statement logic, is the branch of logic that deals 
 
-![image](https://github.com/Komthie/Propositional-Logic/assets/95933637/20c1331d-8446-4146-ae7f-4aa29298153c)
+![image](https://github.com/Komthie/Propositional-Logic/assets/95933637/30c7ac02-775e-49c4-862a-87da33d55549)
 
 ---
 
@@ -39,6 +39,39 @@ The logical value of a proposition is:
 9. There is life on other planets in the universe. V(u) = V
 10. He is very talented. V(e) = V
 
+## Answer.
+A proposition is a statement that can be either true or false. Let's analyze each sentence:
+
+The moon is the only satellite of planet Earth. V(l) = F
+This is a proposition, but it is false. (The moon is not the only satellite of Earth.)
+
+Stop!
+This is not a proposition. It is a command.
+
+Would you like a cup of coffee?
+This is not a proposition. It is a question.
+
+The city of Salvador is the capital of the state of Amazonas. V(s) = F
+This is a proposition, but it is false. (Salvador is the capital of Bahia, not Amazonas.)
+
+The number 712 is odd. V(n) = F
+This is a proposition, and it is false. (712 is an even number.)
+
+I'm not quite sure if I like this color.
+This is not a proposition. It expresses uncertainty.
+
+Fifteen is less than seven. V(q) = F
+This is a proposition, but it is false. (Fifteen is greater than seven.)
+
+How are you?
+This is not a proposition. It is a question.
+
+There is life on other planets in the universe. V(u) = V
+This is a proposition, and its truth value is true, according to the notation.
+
+He is very talented. V(e) = V
+This is a proposition, and its truth value is true, according to the notation.
+
 # Simple Propositions
 
 **Simple Propositions:** A simple proposition or atomic proposition is one that does not contain any other proposition as an integral part of itself.
@@ -55,7 +88,7 @@ The logical value of a proposition is:
 
 # Simple Exercise
 
-**Compound Propositions:** If we combine, for example, the following statements: "Elephants are large" and "Basketballs are round", using the "and" connective, we get the proposition: "Elephants are large and basketballs are round".
+Compound Propositions: If we combine, for example, the following statements: "Elephants are large" and "Basketballs are round", using the "and" connective, we get the proposition: "Elephants are large and basketballs are round".
 
 **What is the formal notation, and the logical value, of the simple propositions and the compound proposition?**
 
